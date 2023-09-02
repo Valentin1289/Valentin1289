@@ -32,7 +32,7 @@ I'm a Full Stack Developer, I enjoy coding from front to back and have a knack f
 ### :thinking: I want to learn:
 
 - C#
-- Mysql
+- MSSQL
 
 ### Outside of coding I enjoy:
 
