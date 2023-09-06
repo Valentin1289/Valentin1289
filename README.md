@@ -22,7 +22,7 @@ I'm a Full Stack Developer, I enjoy coding from front to back and have a knack f
 
 ### :technologist: I'm currently working on:
 
-- My Java, Postgresql and Security skills
+- My Java, PostgreSQL,MSSQL, and Security skills
 - Another Java-based web application
 
 ### :nerd_face: I'm currently learning:
