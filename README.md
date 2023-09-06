@@ -28,7 +28,7 @@ I'm a Full Stack Developer, I enjoy coding from front to back and have a knack f
 ### :nerd_face: I'm currently learning:
 
 - Java
-- -MSSQL
+- MSSQL
 
 ### :thinking: I want to learn:
 
