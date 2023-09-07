@@ -21,11 +21,11 @@ I'm a Full Stack Developer, I enjoy coding from front to back and have a knack f
 ![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/60d33b7b-9dec-471e-8aaa-5f3c8833e412)
 ![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/fa202b15-769c-4c10-9767-716a35ae6bd8)
 
-[Java, JavaScript, React, HTML, CSS, Bootstrap, Tailwind, Spring Boot, Express.js, Microsoft SQL Server, PostgreSql, MongoDB, Supabase, Google Cloud Platform, Intellij, Visual Studio Code]
+[Java, JavaScript, React, HTML, CSS, Bootstrap, Tailwind, Spring Boot, Express.js, MSSQL, PostgreSql, MongoDB, Supabase, Google Cloud Platform, Intellij, Visual Studio Code]
 
 ### :technologist: I'm currently working on:
 
-- My Java, PostgreSQL, Microsoft SQL Server, and Security skills
+- My Java, PostgreSQL, MSSQL, and Security skills
 - Another Java-based web application
 
 ### :nerd_face: I'm currently learning:
