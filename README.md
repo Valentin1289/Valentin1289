@@ -9,26 +9,29 @@ I'm a Full Stack Developer, I enjoy coding from front to back and have a knack f
 ![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/30c3dfc7-f1d7-4907-8132-328a73198898)
 ![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/ccd46e8b-d5b9-49cd-b3d3-3b43da6f45e3)
 ![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/08174154-0774-4e4c-a671-a0ac149a4ebd)
+![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/2525924b-a18f-4c57-92e0-d03155e4d918)
 ![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/9a48697f-efa7-451a-984f-24c69164ece2)
 ![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/d4d03628-9d63-4f56-97e1-b402900dcaf0)
-![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/2525924b-a18f-4c57-92e0-d03155e4d918)
 ![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/104d3e2d-fd3e-4ad1-83ff-33cd017b3e5d)
 ![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/a9b27777-7134-43f9-a28a-de6b2de66cc5)
+![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/e30ce854-98e5-4255-9e7b-f62e38d45781)
 ![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/4dde4da8-b123-438f-af93-d6ea89567c56)
 ![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/2b23d361-08c4-40e1-8752-7b94a454e12f)
 ![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/8b507099-3f36-43a5-8e82-e8aafb5d308e)
 ![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/60d33b7b-9dec-471e-8aaa-5f3c8833e412)
 ![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/fa202b15-769c-4c10-9767-716a35ae6bd8)
 
+[Java, JavaScript, React, HTML, CSS, Bootstrap, Tailwind, Spring Boot, Express.js, Microsoft SQL Server, PostgreSql, MongoDB, Supabase, Google Cloud Platform, Intellij, Visual Studio Code]
+
 ### :technologist: I'm currently working on:
 
-- My Java, PostgreSQL, MSSQL, and Security skills
+- My Java, PostgreSQL, Microsoft SQL Server, and Security skills
 - Another Java-based web application
 
 ### :nerd_face: I'm currently learning:
 
 - Java
-- MSSQL
+- Microsoft SQL Server
 
 ### :thinking: I want to learn:
 
