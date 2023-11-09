@@ -7,6 +7,9 @@ I'm a Full Stack Developer, I enjoy coding from front to back and have a knack f
 
 ![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/92ee21c0-f859-494c-b217-7d72d4ed5036)
 ![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/30c3dfc7-f1d7-4907-8132-328a73198898)
+![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/b59faea9-d6c0-45f6-bcb8-695cf07cbe79)
+![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/f26c34fa-2636-49b0-b4fd-95bff0415860)
+![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/1a5e3448-0afa-4609-906b-fe6a8ea94b24)
 ![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/ccd46e8b-d5b9-49cd-b3d3-3b43da6f45e3)
 ![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/08174154-0774-4e4c-a671-a0ac149a4ebd)
 ![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/2525924b-a18f-4c57-92e0-d03155e4d918)
@@ -21,17 +24,17 @@ I'm a Full Stack Developer, I enjoy coding from front to back and have a knack f
 ![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/60d33b7b-9dec-471e-8aaa-5f3c8833e412)
 ![image](https://github.com/Valentin1289/Valentin1289/assets/92501875/fa202b15-769c-4c10-9767-716a35ae6bd8)
 
-[Java, JavaScript, React, HTML, CSS, Bootstrap, Tailwind, Spring Boot, Express.js, MSSQL, PostgreSql, MongoDB, Supabase, Google Cloud Platform, Intellij, Visual Studio Code]
+[Java, JavaScript, C++,TypeScript, Angular, React, HTML, CSS, Bootstrap, Tailwind, Spring Boot, Express.js, MSSQL, PostgreSql, MongoDB, Supabase, Google Cloud Platform, Intellij, Visual Studio Code]
 
 ### :technologist: I'm currently working on:
 
-- My Java, PostgreSQL, MSSQL, and Security skills
-- Another Java-based web application
+- My Java, PostgreSQL, Angular, and Security skills
+- Another Java-based web applications
 
 ### :nerd_face: I'm currently learning:
 
-- Java
-- Microsoft SQL Server
+- TypeScript
+- Angular
 
 ### :thinking: I want to learn:
 
